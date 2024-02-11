@@ -1,0 +1,18 @@
+ACLARATORIO PARA EL DESAFIO GUIADO A REALIZAR
+-la 1era pregunta del desafio pide realizar el diagrama de flujo con
+operaciones matemáticas
+para la exponenciación el operador es ** , ejemplo en la consola puede probar
+3 ** 2 y debe dar 9
+
+-La 2da es la misma pregunta 1 pero realizando el código en JavaScript,
+recuerden usar const en vez de var para definir sus variables de entrada y proceso
+-Pregunta 3 le piden una conversión, y les dan un ejemplo como realizar
+cada conversión, pueden realizar el 2 y 3 usando para entrada de datos
+prompt y salida de datos alert o document.write
+
+-Pregunta 4 prueben desarrollarlo para ejecutarlo solo con Node, para
+ese caso el dato de entrada considerémoslo una constante con un valor
+asignado, para la salida de datos usar console.log con concatenación e
+interpolacion
+
+-Pregunta 5 trate de mostrar la salida de datos en el HTML usando innerHtml
